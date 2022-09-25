@@ -10,7 +10,7 @@ const anu = {
                         },
        message: {
                     "documentMessage": {
-                    "title": 'elaina.jpeg', 
+                    "title": 'https://telegra.ph/file/596040e02b98113f95435.jpg', 
                     "jpegThumbnail": fs.readFileSync('./thumbnail.jpg')
                           }
                         }
