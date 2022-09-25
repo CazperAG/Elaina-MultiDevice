@@ -692,27 +692,27 @@ function ucapan() {
 function timeimg() {
     let imgloc = ''
   const time = moment.tz('Asia/Kolkata').format('HH')
-  imgloc = ('./media/elaina8.png')
+  imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   if (time >= 0) {
-    imgloc = ('./media/elaina.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 4) {
-    imgloc = ('./media/elaina2.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 8) {
-    imgloc = ('./media/elaina3.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 12) {
-    imgloc = ('./media/elaina4.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 16) {
-    imgloc = ('./media/elaina5.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 20) {
-    imgloc = ('./media/elaina6.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   if (time >= 24) {
-    imgloc = ('./media/elaina7.png')
+    imgloc = ('https://telegra.ph/file/596040e02b98113f95435.jpg')
   }
   return imgloc
 }
